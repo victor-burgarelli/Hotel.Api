@@ -6,6 +6,8 @@ API feita em ASP.NET Core 6 com operações CRUD de hotéis com persistência de
 - `Criar Hotel`: Faz o cadastro de um novo hotel juntamente de seu endereço.
 - `Editar Hotel`: Edita as informações de um hotel.
 - `Deletar Hotel`: Deleta um hotel.
+- `Visualizar hotel`: Retorna os detalhes de um hotel especifico.
+- `Visualizar todos hoteis`: Retorna uma lista com todos os hoteis.
 ## 📝 Pré-requisitos
 * Visual Studio
 * SQL Server Express + SSMS
